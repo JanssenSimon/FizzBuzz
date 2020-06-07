@@ -7,7 +7,5 @@
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache

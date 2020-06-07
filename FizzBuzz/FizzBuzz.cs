@@ -9,8 +9,8 @@ namespace FizzBuzz
             Console.WriteLine("FizzBuzz!");
         }
 
-		public static string FizzBuzzFromIndex(int index) {
-			return index.ToString();
-		}
+        public static string FromIndex(int index) {
+            return index.ToString();
+        }
     }
 }

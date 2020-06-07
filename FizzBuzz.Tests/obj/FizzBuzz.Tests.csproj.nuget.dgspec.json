@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {}
+    "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {}
   },
   "projects": {
-    "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {
+    "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
+        "projectUniqueName": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
         "projectName": "FizzBuzz.Tests",
-        "projectPath": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
+        "projectPath": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
         "packagesPath": "/home/simon/.nuget/packages/",
-        "outputPath": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/",
+        "outputPath": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/simon/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
-                "projectPath": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj"
+              "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
+                "projectPath": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj"
               }
             }
           }
@@ -67,29 +67,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
+    "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+        "projectUniqueName": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+        "projectPath": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
         "packagesPath": "/home/simon/.nuget/packages/",
-        "outputPath": "/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz/obj/",
+        "outputPath": "/home/simon/Temp/DotnetProjects/FizzBuzz/FizzBuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/simon/.nuget/NuGet/NuGet.Config"
@@ -123,18 +117,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.103/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -92,8 +92,6 @@
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.csprojAssemblyReference.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.AssemblyInfoInputs.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.AssemblyInfo.cs
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.csproj.CoreCompileInputs.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.csproj.CopyComplete
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.pdb
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.genruntimeconfig.cache

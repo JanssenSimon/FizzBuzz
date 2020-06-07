@@ -9,7 +9,14 @@ namespace FizzBuzz.Tests
         [Fact]
         public void ReturnInputAsString()
         {
-			Assert.Equal("1", FizzBuzz.FizzBuzzFromIndex(1));
+            Assert.Equal("1", FizzBuzz.FromIndex(1));
+        }
+
+        [Fact]
+        public void ReturnFizzOnThrees()
+        {
+            Assert.Equal("Fizz", FizzBuzz.FromIndex(3));
+            Assert.Equal("Fizz", FizzBuzz.FromIndex(6));
         }
     }
 }

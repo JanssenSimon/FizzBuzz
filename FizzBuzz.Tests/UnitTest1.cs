@@ -1,13 +1,15 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
+using Xunit;
+using FizzBuzz; 
 
 namespace FizzBuzz.Tests
 {
-    [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
-        public void TestMethod1()
+        [Fact]
+        public void ReturnInputAsString()
         {
+			Assert.Equal("1", FizzBuzz.FizzBuzzFromIndex(1));
         }
     }
 }

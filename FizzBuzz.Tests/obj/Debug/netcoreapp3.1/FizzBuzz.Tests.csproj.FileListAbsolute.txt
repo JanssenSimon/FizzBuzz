@@ -1,6 +1,7 @@
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz.Tests.deps.json
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz.Tests.runtimeconfig.json
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz.Tests.runtimeconfig.dev.json
@@ -15,10 +16,12 @@
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/testhost.dll
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.assert.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.core.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -84,6 +87,8 @@
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.csprojAssemblyReference.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.AssemblyInfoInputs.cache
 /home/simon/temp/DotNetProjects/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp3.1/FizzBuzz.Tests.AssemblyInfo.cs
